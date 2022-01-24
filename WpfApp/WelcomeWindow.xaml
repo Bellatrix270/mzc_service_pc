@@ -46,7 +46,7 @@
                        FontSize="36"
                        FontWeight="Regular"
                        TextAlignment="Center"
-                       Text="Добро пожаловать, Bellatrix "
+                       Text="Рады видеть вас, Bellatrix "
                        Margin="15"/>
         </StackPanel>
         
